@@ -37,9 +37,9 @@ title: Сцена 2
 
 ## Враги
 
-- **2×** :contentReference[oaicite:0]{index=0} — [статы](https://dnd.su/bestiary/46-vine-blight/)
-- **3×** :contentReference[oaicite:1]{index=1} — [статы](https://dnd.su/bestiary/45-needle-blight/)
-- **1×** :contentReference[oaicite:2]{index=2} — [статы](https://dnd.su/bestiary/396-awakened-tree/)
+- **2×**  [Вьющаяся зараза](https://dnd.su/bestiary/46-vine-blight/)
+- **3×** [Игольчатая зараза](https://dnd.su/bestiary/45-needle-blight/)
+- **1×**  [Пробужденное дерево](https://dnd.su/bestiary/396-awakened-tree/)
 
 ---
 

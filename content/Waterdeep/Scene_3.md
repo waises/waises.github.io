@@ -32,10 +32,9 @@ title: Сцена 3
 
 ## Враги
 
-- **1×** :contentReference[oaicite:0]{index=0} — [статы](https://dnd.su/bestiary/144-water-elemental/)
-- **2×** :contentReference[oaicite:1]{index=1} — [статы](https://dnd.su/bestiary/233-steam-mephit/)
+- **1×** [Водяной элементаль](https://dnd.su/bestiary/144-water-elemental/)
+- **2×** [Паровой мефит](https://dnd.su/bestiary/233-steam-mephit/)
 
-_Альтернатива: Ice Mephit вместо Steam — если хочется ледяной вайб._
 
 ---
 
