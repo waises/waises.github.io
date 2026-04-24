@@ -4,7 +4,6 @@ title: scene_1
 
 # Pavel’s Notes
 
-Добро пожаловать.
+Приключенцы ![в комнате](/maps/Waterdeep_druid_room.jpg)
+С ними сидит [npc](/npcs/Ria.md)
 
-- [[first_npc]]
-- [[https://youtu.be/e55S_2yaUwU]]
