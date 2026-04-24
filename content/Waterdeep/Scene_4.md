@@ -27,7 +27,7 @@ title: Сцена 4
 
 ### Враг
 
-- **1× Shambling Mound** — [статы](https://dnd.su/bestiary/230-shambling-mound/)
+- **1× Shambling Mound** — [статы](https://dnd.su/bestiary/284-shambling-mound/)
 
 ---
 
